@@ -1,17 +1,24 @@
-This project was created as part of the SheCodes Developer Bootcamp.  
-While it is not my first project, it is the first one I’ve published on GitHub.
+# Hello Git 
 
-The goal of this project was to practice front-end development skills and become familiar with using Git, GitHub Desktop, and GitHub for version control.
+A beginner-friendly project to practice Git and GitHub workflows.  
+This project demonstrates creating commits, branching, and pushing changes to a remote repository.
 
-Built With
-- HTML
+## Live Demo
+Check it out here: [Hello Git on Netlify](https://verdant-figolla-c1ef93.netlify.app/)
+
+## Features
+- Practice Git basics: clone, commit, push
+- Learn branching and merging
+- Understand repository structure and version control
+- Interactive project hosted online
+
+## Technologies Used
+- HTML (modern)
 - CSS
-- JavaScript
+- Git & GitHub for version control
 
-What I Learned
-- How to track changes using Git
-- How to commit and push code using GitHub Desktop
-- How to publish a project to GitHub
-- How to manage a remote repository
+## How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ndinelago-Asser/hello-git.git
 
-Created by Ndinelago 
