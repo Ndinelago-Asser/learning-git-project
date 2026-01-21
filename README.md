@@ -20,6 +20,5 @@ Check it out here: [Hello Git on Netlify](https://verdant-figolla-c1ef93.netlify
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ndinelago-Asser/hello-git.git
-
+   git clone https://github.com/Ndinelago-Asser/learning-git-project
 
